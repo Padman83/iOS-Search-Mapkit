@@ -2,7 +2,7 @@
 
 ## 📱 iOS-Search-Mapkit
 
-Search Mapkit is written in Swift language for iOS Apps.
+Search Mapkit is written in Swift for iOS Apps.
 
 ![iOS Search Mapkit](https://user-images.githubusercontent.com/45048950/75435546-24738500-598e-11ea-87c7-9fb884c6aec6.gif)
 
