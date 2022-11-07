@@ -8,8 +8,7 @@ Search Mapkit is written in Swift.
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor
-* iPhone 11
+* Xcode Editor + iPhone 11
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
