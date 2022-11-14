@@ -2,13 +2,13 @@
 
 ## 📱 iOS-Search-Mapkit
 
-Search Mapkit is written in Swift.
+Written in Swift.
 
 ![iOS Search Mapkit](https://user-images.githubusercontent.com/45048950/75435546-24738500-598e-11ea-87c7-9fb884c6aec6.gif)
 
 ### 🧰 System Requirements + 🛠️ Installation:
 
-* Xcode Editor + iPhone 11
+* Xcode Editor + iPhone Simulator
 
 #### Open in Xcode, go to source control -> clone -> enter repository URL.
 
